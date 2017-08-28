@@ -1,4 +1,13 @@
-p { color: green;
+body {
+    background-image: url("http://fortune-psychics.com/wp-content/uploads/2015/10/FreeOnlineFortuneTellerBot.gif");
+    background-size: 30%;
+    background-repeat: no-repeat;
+    background-position: center bottom;
+}
+
+
+p {
+    color: green;
     font-size: 36px;
     font-family: 'Nunito', sans-serif;
 }
