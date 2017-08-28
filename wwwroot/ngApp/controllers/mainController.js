@@ -3,3 +3,5 @@ class MainController {
         this.message = "hello from main";
     }
 }
+
+// Create return random fortune
