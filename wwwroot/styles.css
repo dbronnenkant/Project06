@@ -1,8 +1,11 @@
-body {
-    background-image: url("http://fortune-psychics.com/wp-content/uploads/2015/10/FreeOnlineFortuneTellerBot.gif");
+.imgClass {
+    /* background-image: url("http://fortune-psychics.com/wp-content/uploads/2015/10/FreeOnlineFortuneTellerBot.gif");
     background-size: 30%;
     background-repeat: no-repeat;
-    background-position: center bottom;
+    background-position: center bottom;*/
+    width: 30%;
+    height: auto;
+    position: center bottom;
 }
 
 
