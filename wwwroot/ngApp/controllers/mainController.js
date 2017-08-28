@@ -1,7 +1,7 @@
 class MainController {
     constructor() {
-        this.message = "hello from main";
+        this.message = "You have amassed a fortune of " + result;
     }
 }
 
-// Create return random fortune
+let result = "";
