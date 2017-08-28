@@ -1,6 +1,10 @@
 class MainController {
     constructor() {
-        this.message = getFortune(fortune);
+        this.message = "You have amassed a fortune of " + getFortune(fortune);
+    }
+}
+
+
     }
 }
 
@@ -15,3 +19,4 @@ function getFortune(input) {
 
 
 // Create return random fortune
+
