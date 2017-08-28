@@ -1,6 +1,6 @@
 class MainController {
     constructor() {
-        this.message = "You have amassed a fortune of " + getFortune(fortune);
+        this.message = getFortune(fortune);
     }
 }
 
